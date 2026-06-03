@@ -1,19 +1,3 @@
-Use this as your main GitHub profile README.
-Create a repository named exactly:
-
-`saikumarrayankula`
-
-Then add this README.md file inside it.
-This format is optimized for:
-
-* Recruiters
-* Freelancing clients
-* DevOps/SRE jobs
-* Platform Engineering roles
-* Cloud Engineering opportunities
-
----
-
 # Hi 👋 I'm Sai Kumar R
 
 # Cloud Infrastructure | SRE | Platform Engineer | DevOps Engineer
@@ -26,7 +10,7 @@ Focused on building scalable cloud infrastructure, automating operations, improv
 
 # 🚀 Professional Summary
 
-* 5+ years of experience in Cloud Infrastructure and Production Support
+* 6+ years of experience in Cloud Infrastructure and Production Support
 * Expertise in AWS and Google Cloud Platform (GCP)
 * Hands-on experience with Terraform Infrastructure as Code (IaC)
 * Experience managing production incidents and release management
