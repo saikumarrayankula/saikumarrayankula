@@ -25,8 +25,8 @@ Focused on building scalable cloud infrastructure, automating operations, improv
 
 ## Cloud Platforms
 
-* AWS
 * Google Cloud Platform (GCP)
+* AWS
 
 ## Infrastructure as Code
 
@@ -278,6 +278,14 @@ Linux • Automation • Shell Scripting
 ## GitHub
 
 [https://github.com/saikumarrayankula](https://github.com/saikumarrayankula)
+
+## Email
+
+[saikumar.rayankula@gmail.com](mailto:saikumar.rayankula@gmail.com)
+
+## Mobile
+
++91 9705530170
 
 ---
 
