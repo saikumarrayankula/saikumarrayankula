@@ -1,188 +1,300 @@
-Portfolio Project Highlights
-🚀 Core Engineering Highlights
-Designed Infrastructure as Code (IaC) solutions using Terraform for AWS and GCP
-Automated cloud infrastructure provisioning and lifecycle management
-Built VM automation workflows for operational cost optimization
-Experience managing production workloads with high availability
-Implemented scalable DevOps and CI/CD practices
-Worked on incident management, monitoring, and operational reliability
-Hands-on with Kubernetes, Docker, Linux, and cloud-native tooling
-Strong focus on automation, scalability, reliability, and security best practices
-Experience supporting production deployments and release management
-Optimized operational workflows using scripting and automation
-🏗️ Architecture & Design Implementation
-1. Terraform GCP Infrastructure Design
-Repository
+Use this as your main GitHub profile README.
+Create a repository named exactly:
 
-terraform-gcp-noom
+`saikumarrayankula`
 
-Design Implementation
-Infrastructure as Code (IaC)
-Used Terraform modules for reusable infrastructure deployment
-Environment-based configuration separation
-State management for infrastructure consistency
-Automated provisioning for cloud resources
-Architecture Components
-Virtual Machine provisioning
-Networking and firewall configuration
-IAM and access control
-Resource automation
-Environment isolation
-High Scalability Design
-Modular Terraform architecture
-Reusable infrastructure templates
-Horizontal resource scaling capability
-Environment-specific deployment strategy
-Infrastructure version control and rollback capability
-High Availability Strategy
-Multi-zone deployment support
-Infrastructure reproducibility
-Automated recovery provisioning
-Stateless deployment approach
-Reduced manual operational dependency
-Security Implementation
-IAM-based access management
-Principle of least privilege
-Infrastructure version tracking
-Controlled deployment workflows
-Environment isolation and access separation
-⚙️ VM Automation Architecture
-Repository
+Then add this README.md file inside it.
+This format is optimized for:
 
-vm-start-stop
+* Recruiters
+* Freelancing clients
+* DevOps/SRE jobs
+* Platform Engineering roles
+* Cloud Engineering opportunities
 
-Design Implementation
-Automation Workflow
-Automated VM startup and shutdown scheduling
-Reduced idle infrastructure cost
-Improved operational efficiency
-Scripted cloud operations
-Architecture Features
-Scheduler-based execution
-Automated infrastructure control
-Logging and operational visibility
-Reusable automation scripts
-Scalability Features
-Multi-VM operational support
-Centralized automation logic
-Expandable cloud automation workflows
-Reduced manual scaling bottlenecks
-Availability Improvements
-Automated recovery operations
-Reduced human operational dependency
-Scheduled infrastructure readiness
-Operational consistency
-Security Controls
-Controlled execution permissions
-Secure automation access handling
-Script-based operational governance
-Minimal privileged access model
-☁️ Terraform Learning & Reusable Templates
-Repository
+---
 
-Terraform_learn
+# Hi 👋 I'm Sai Kumar R
 
-Implementation Highlights
-Terraform reusable modules
-Cloud resource templates
-Infrastructure lifecycle management
-Multi-environment provisioning
-Scalability
-Template-driven deployments
-Easy infrastructure replication
-Rapid environment creation
-Infrastructure standardization
-Security
-Controlled resource provisioning
-Standardized infrastructure policies
-Consistent configuration management
-🔧 Operational Automation & Task Engineering
-Repository
+# Cloud Infrastructure | SRE | Platform Engineer | DevOps Engineer
 
-Ti_task
+Experienced Site Reliability Engineer and Platform Engineer with strong expertise in AWS, GCP, Kubernetes, Terraform, CI/CD, Linux administration, infrastructure automation, production support, and operational reliability engineering.
 
-Implementation Highlights
-Automated operational workflows
-Linux-based scripting automation
-DevOps operational tasks
-Process optimization
-Reliability Features
-Reduced repetitive manual operations
-Consistent execution workflows
-Improved operational stability
-Faster operational turnaround
-🌐 High-Level Cloud Architecture
-                    +----------------------+
-                    |   Developers / CI    |
-                    +----------+-----------+
-                               |
-                               v
-                    +----------------------+
-                    |   GitHub Repository  |
-                    +----------+-----------+
-                               |
-                               v
-                    +----------------------+
-                    | Terraform Automation |
-                    +----------+-----------+
-                               |
-        ------------------------------------------------
-        |                     |                        |
-        v                     v                        v
-+---------------+   +----------------+    +------------------+
-| GCP Resources |   | VM Automation  |    | Monitoring Stack |
-+---------------+   +----------------+    +------------------+
-        |                     |                        |
-        ------------------------------------------------
-                               |
-                               v
-                    +----------------------+
-                    | Production Workloads |
-                    +----------------------+
-🔒 Security Best Practices
-Infrastructure Security
-IAM role-based access control
-Least privilege principle
-Infrastructure version control
-Environment isolation
-Secure automation execution
-Operational Security
-Controlled deployment workflows
-Git-based change tracking
-Automation governance
-Reduced manual intervention risks
-Reliability & Governance
-Infrastructure reproducibility
-Version-controlled deployments
-Consistent operational standards
-Audit-friendly infrastructure changes
-📈 Scalability & Reliability Engineering
-Scalability Principles
-Modular infrastructure design
-Automation-first operational model
-Reusable Terraform modules
-Environment standardization
-Cloud-native deployment practices
-Reliability Principles
-Reduced single points of failure
-Automated operational workflows
-Infrastructure consistency
-Faster recovery capability
-Production operational support
-🎯 Recruiter Keywords
-Site Reliability Engineering (SRE)
-Platform Engineering
-Cloud Infrastructure Automation
-Terraform
-AWS / GCP
-Kubernetes
-Linux Administration
-DevOps Automation
-Infrastructure as Code (IaC)
-CI/CD
-Monitoring & Alerting
-Production Support
-Incident Management
-Release Engineering
-Reliability Engineering
-Cost Optimization
+Focused on building scalable cloud infrastructure, automating operations, improving platform reliability, and optimizing deployment workflows across modern cloud-native environments.
+
+---
+
+# 🚀 Professional Summary
+
+* 5+ years of experience in Cloud Infrastructure and Production Support
+* Expertise in AWS and Google Cloud Platform (GCP)
+* Hands-on experience with Terraform Infrastructure as Code (IaC)
+* Experience managing production incidents and release management
+* Strong knowledge in Kubernetes, Docker, Linux, and CI/CD pipelines
+* Skilled in automation, monitoring, alerting, and platform reliability
+* Experience supporting high availability production environments
+* Passionate about DevOps automation and cloud optimization
+
+---
+
+# ☁️ Cloud & DevOps Skills
+
+## Cloud Platforms
+
+* AWS
+* Google Cloud Platform (GCP)
+
+## Infrastructure as Code
+
+* Terraform
+* Infrastructure Automation
+* Cloud Provisioning
+
+## Containers & Orchestration
+
+* Docker
+* Kubernetes
+
+## CI/CD & DevOps
+
+* Jenkins
+* GitHub Actions
+* GitLab CI/CD
+* Release Management
+
+## Monitoring & Reliability
+
+* Incident Management
+* SLA / SLO / SLI
+* Monitoring & Alerting
+* Root Cause Analysis
+* Production Support
+
+## Operating Systems
+
+* Linux Administration
+* Shell Scripting
+
+## Version Control
+
+* Git
+* GitHub
+
+---
+
+# 🏗️ Architecture & Engineering Expertise
+
+## High Availability Engineering
+
+* Designed resilient cloud infrastructure
+* Reduced operational downtime using automation
+* Implemented infrastructure reproducibility
+* Automated operational recovery workflows
+
+## Scalability Engineering
+
+* Modular Terraform architecture
+* Reusable infrastructure templates
+* Cloud-native deployment strategy
+* Environment-based infrastructure management
+
+## Security Engineering
+
+* IAM-based access control
+* Least privilege implementation
+* Infrastructure governance
+* Secure deployment workflows
+* Environment isolation
+
+## Reliability Engineering
+
+* Incident response handling
+* Alert monitoring and troubleshooting
+* Production deployment management
+* Operational stability improvements
+
+---
+
+# 📂 Featured Projects
+
+---
+
+## 🚀 Terraform GCP Infrastructure Automation
+
+### Repository
+
+[https://github.com/saikumarrayankula/terraform-gcp-noom](https://github.com/saikumarrayankula/terraform-gcp-noom)
+
+### Highlights
+
+* Provisioned scalable GCP infrastructure using Terraform
+* Implemented Infrastructure as Code best practices
+* Automated infrastructure provisioning workflows
+* Reusable Terraform modules for cloud deployments
+
+### Tech Stack
+
+Terraform • GCP • Linux • Automation
+
+### Key Features
+
+* Scalable infrastructure design
+* Secure cloud provisioning
+* Environment isolation
+* Infrastructure version control
+
+---
+
+## ⚙️ VM Start/Stop Cloud Automation
+
+### Repository
+
+[https://github.com/saikumarrayankula/vm-start-stop](https://github.com/saikumarrayankula/vm-start-stop)
+
+### Highlights
+
+* Automated VM operational scheduling
+* Reduced cloud operational costs
+* Improved infrastructure efficiency
+* Implemented automation-based operational management
+
+### Tech Stack
+
+Shell Scripting • Linux • Cloud Automation
+
+### Key Features
+
+* Automated scheduling
+* Operational automation
+* Cost optimization
+* Reduced manual intervention
+
+---
+
+## ☁️ Terraform Learning & Infrastructure Templates
+
+### Repository
+
+[https://github.com/saikumarrayankula/Terraform_learn](https://github.com/saikumarrayankula/Terraform_learn)
+
+### Highlights
+
+* Terraform reusable templates and modules
+* Infrastructure provisioning workflows
+* Multi-environment deployment practices
+* Cloud infrastructure automation learning repository
+
+### Tech Stack
+
+Terraform • Cloud Infrastructure • Linux
+
+### Key Features
+
+* Reusable templates
+* Infrastructure standardization
+* Scalable deployments
+* IaC best practices
+
+---
+
+## 🔧 Automation & Operational Engineering
+
+### Repository
+
+[https://github.com/saikumarrayankula/Ti_task](https://github.com/saikumarrayankula/Ti_task)
+
+### Highlights
+
+* Automated operational workflows
+* Improved repetitive operational processes
+* Linux-based task automation
+* DevOps operational scripting
+
+### Tech Stack
+
+Linux • Automation • Shell Scripting
+
+---
+
+# 🌐 High-Level Architecture
+
+```text
+                +----------------------+
+                |  Developers / CI/CD |
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                |   GitHub Repository  |
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                | Terraform Automation |
+                +----------+-----------+
+                           |
+    -------------------------------------------------
+    |                    |                         |
+    v                    v                         v
++-----------+    +---------------+      +----------------+
+| GCP Cloud |    | VM Automation |      | Monitoring     |
+| Resources |    | & Scheduling  |      | & Operations   |
++-----------+    +---------------+      +----------------+
+           \            |                      /
+            \           |                     /
+             ---------------------------------
+                           |
+                           v
+                +----------------------+
+                | Production Workloads |
+                +----------------------+
+```
+
+---
+
+# 🔐 Security & Reliability Practices
+
+* IAM-based secure access management
+* Infrastructure version control using Git
+* Environment-specific deployment management
+* Automation-first operational model
+* Reduced manual operational risks
+* Reliable infrastructure provisioning
+* Production support and incident handling
+* Infrastructure consistency and governance
+
+---
+
+# 📈 Current Focus Areas
+
+* Site Reliability Engineering (SRE)
+* Platform Engineering
+* Cloud Infrastructure Automation
+* Kubernetes Operations
+* Terraform Infrastructure as Code
+* DevOps Automation
+* AI Agent Automation
+* Cloud Cost Optimization
+
+---
+
+# 🎯 Open To Opportunities
+
+* Cloud Infrastructure Engineer
+* DevOps Engineer
+* Platform Engineer
+* Site Reliability Engineer (SRE)
+* Freelancing & Remote Projects
+* Infrastructure Automation Projects
+
+---
+
+# 📫 Connect With Me
+
+## GitHub
+
+[https://github.com/saikumarrayankula](https://github.com/saikumarrayankula)
+
+---
+
+⭐ Building scalable, reliable, and automated cloud platforms.
